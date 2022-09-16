@@ -329,7 +329,7 @@
     "koa-webpack-dev-middleware": "^1.4.5",
     "koa-webpack-hot-middleware": "^1.0.3",
     "lint-staged": "^12.3.8",
-    "nodemon": "^2.0.18",
+    "nodemon": "^2.0.19",
     "prettier": "^2.0.5",
     "react-refresh": "^0.9.0",
     "rimraf": "^2.5.4",
